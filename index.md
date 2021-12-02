@@ -2,7 +2,7 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about AI, Data Science, Graphs, and Food.
+I'm glad you are here. I plan to talk about AI, blockchain development and data analytics.
 
 View some of my recent projects (connect Metamask wallet to the Rinkeby test network):
 - [Ethereum smart contract](https://recipe-portal.krishnacd93.repl.co/)
