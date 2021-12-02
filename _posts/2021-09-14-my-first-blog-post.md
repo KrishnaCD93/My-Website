@@ -3,7 +3,7 @@ title: "Collaborative Cookbook"
 date: 2021-09-14
 ---
 # Collaborative Cookbook
-### A web3 enabled graph application for visually pleasing recipes
+#### A web3 enabled graph application for visually pleasing recipes
 
 When I moved out of my house, the majority of my dinners were sourced through Skip The Dishes and Uber Eats. The effects of repeatedly eating processed food and the cheap oils used in restaurants didn't show for two years. Once I moved back home, I decided to get back into shape, so I took some time to read up on various parts of the cooking process and filled my pantry with healthy cooking oils and nutritious ingredients. Being a vegetarian and having eaten my mom's Indian cooking all my life, I continued the tradition and started making dal and curry at home. Learning my mom's recipes seemed a daunting task at first as she would tell me all kinds of tricks to get the most out of the ingredients and rattle off the recipe quickly but putting it into practice was not too bad. The hardest part was just cutting the vegetables.
 
