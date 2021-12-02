@@ -3,7 +3,7 @@ author: Krishna Duvvuri
 email: krishna.c.duvvuri@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog where I talk about things I am learning about and building. 
-  Topics include: AI, Data Science, Graph Databases, Cooking, and Rocket League.
+  Topics include: AI, Data Science, Graph Databases, Cooking, and Blockchain Development.
 
 # social links
 twitter_username: duvvuri_krishna # DO NOT include the @ character, or else the build will fail!
