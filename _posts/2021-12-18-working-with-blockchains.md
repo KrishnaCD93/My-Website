@@ -1,6 +1,6 @@
 ---
 title: "Working With Blockchains"
-date: 2021-12-02
+date: 2021-12-18
 ---
 # Working With Blockchains
 #### How blockchain technologies enable privacy and security in a connected world
