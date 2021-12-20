@@ -10,3 +10,6 @@ View some of my recent projects (connect Phantom wallet to the devnet and Metama
 - [Ethereum smart contract](https://recipe-portal.krishnacd93.repl.co/)
 - [Blockchain turn-based fighting game](https://nft-game-starter-project.krishnacd93.repl.co)
 - [Data Analytics CAPSTONE project - Analysis of Canada's Food Industry](https://github.com/KrishnaCD93/DAAN-Capstone-Project)
+
+Web3 Collection:
+[NFTs I've colleted](https://opensea.io/krishnaD)
