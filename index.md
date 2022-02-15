@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Website"
+title: "Welcome To My Website"
 ---
 
 I'm glad you are here. I plan to talk about what I'm building and ideas for the future.
