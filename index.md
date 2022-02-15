@@ -2,7 +2,7 @@
 title: "Welcome To My Website"
 ---
 
-I'm glad you are here. I plan to talk about what I'm building and ideas for the future.
+I'm glad you are here. I plan to use this area to showcase what I'm building and my blog that talks about ideas for the future.
 
 View some of my recent projects (connect Phantom wallet to the devnet and Metamask wallet to the Rinkeby test network):
 - [Solana Metaplax NFT with drop date](https://nft-drop-starter-project-alpha-lac.vercel.app/)
