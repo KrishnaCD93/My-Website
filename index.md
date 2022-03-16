@@ -16,5 +16,5 @@ View some of my recent projects (connect Phantom wallet to the devnet and Metama
 
 [Read my blogs here](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4)
 
-## Web3 Collection:
+## Web3 Collection
 [NFTs I've collected](https://opensea.io/krishnaD)
