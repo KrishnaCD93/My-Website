@@ -6,7 +6,7 @@ I'm glad you are here. I plan to use this area to showcase what I'm building and
 
 ## Work
 
-Building [cookbook.social](cookbook.social)
+Building [cookbook.social](cookbook.social), which you can read about: [Cookbook: A Social Recipe Network](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/YNsehRAs5Yxq77jD3gC2Sg6gB3k0VjI8eobZZrZU144)
 
 View some of my recent projects (connect Phantom wallet to the devnet and Metamask wallet to the Rinkeby test network):
 - [Solana Metaplax NFT with drop date](https://nft-drop-starter-project-alpha-lac.vercel.app/)
@@ -19,6 +19,10 @@ View some of my recent projects (connect Phantom wallet to the devnet and Metama
 I publish posts about the applications of blockchains and various other topics on my Mirror blog site
 
 [Read my blogs here](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4)
+- [Metaverse, A Digitally Augmented Reality](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/eJZKJKIXNv1R4tMeWy-sqfF5mhwvJKX9VwXPvkw7bkM)
+- [The Game of Digital Interactions](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/TnK_s0pzxDtPmtMvvw5g_yJgX-Xo1IzcjTnRUw_Kuso)
+- [Decentralized Private Identity](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/rXHgNAFTsfPZgKfg3CRmHBRsdQk8nUSsZ58LBqKUwSM)
+- [Unbundling Curation for Decentralized Communities](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/qQgCQ6C3-szK32cjQ_TBopuY7Z74idVucnhp3n7cWck)
 
 ## Web3 Conversations
 I had a conversation with the University of Toronto's class of Arts Management at Schulich School of Business ARTM6360.
