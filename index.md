@@ -13,7 +13,6 @@ View some of my recent projects (connect Phantom wallet to the devnet and Metama
 - [Solana dApp, gif portal of rocket league gifs](https://gif-portal-starter.krishnacd93.repl.co/)
 - [Ethereum smart contract](https://recipe-portal.krishnacd93.repl.co/)
 - [Blockchain turn-based fighting game](https://nft-game-starter-project.krishnacd93.repl.co)
-- [Analysis of Canada's Food Industry](https://github.com/KrishnaCD93/DAAN-Capstone-Project)
 
 ## Blog
 I publish posts about the applications of blockchains and various other topics on my Mirror blog site
@@ -29,5 +28,15 @@ I had a conversation with the University of Toronto's class of Arts Management a
 
 [View my talk here](https://www.dropbox.com/s/d1gi73u8u2lqs3r/Schulich%20AM%2BE%20Digital%20Media%20-%202022%20Class%201.mp4?dl=0)
 
+## Data Analytics
+View my analyses completed for data analytics certification.
+- [Analysis of Canada's Food Industry](https://github.com/KrishnaCD93/DAAN-Capstone-Project)
+- [NY City 2012 Stop and Frisk Program](https://1drv.ms/w/s!AvCFI7fzKgPmhetpxLrag9dSMXvB2A?e=xBr5N6)
+- [Cost analysis of London's railway rides](https://1drv.ms/b/s!AvCFI7fzKgPmhKtCoGOMavIMegviJg)
+- [Case Study: Canada's Energy Future](https://1drv.ms/p/s!AvCFI7fzKgPmhIx0yaxBeR0Nxgq72g?e=QnN4xx)
+- [Case Study: Visualising Canadian Tax Brackets and Calgary Trasit](https://1drv.ms/p/s!AvCFI7fzKgPmg_YMcITM59jB9VbJ7w?e=zehDBd)
+
 ## Web3 Collection
 [NFTs I've collected](https://opensea.io/krishnaD)
+
+
