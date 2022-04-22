@@ -13,7 +13,7 @@ View some of my recent projects (connect Phantom wallet to the devnet and Metama
 - [Solana dApp, gif portal of rocket league gifs](https://gif-portal-starter.krishnacd93.repl.co/)
 - [Ethereum smart contract](https://recipe-portal.krishnacd93.repl.co/)
 - [Blockchain turn-based fighting game](https://nft-game-starter-project.krishnacd93.repl.co)
-- [Data Analytics CAPSTONE project - Analysis of Canada's Food Industry](https://github.com/KrishnaCD93/DAAN-Capstone-Project)
+- [Analysis of Canada's Food Industry](https://github.com/KrishnaCD93/DAAN-Capstone-Project)
 
 ## Blog
 I publish posts about the applications of blockchains and various other topics on my Mirror blog site
