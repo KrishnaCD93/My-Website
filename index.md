@@ -6,7 +6,7 @@ I'm glad you are here. I plan to use this area to showcase what I'm building and
 
 ## Work
 
-Building [cookbook.social](cookbook.social), which you can read about: [Cookbook: A Social Recipe Network](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/YNsehRAs5Yxq77jD3gC2Sg6gB3k0VjI8eobZZrZU144)
+Building [cookbook.social](https://cookbook.social/), which you can read about: [Cookbook: A Social Recipe Network](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/YNsehRAs5Yxq77jD3gC2Sg6gB3k0VjI8eobZZrZU144)
 
 View some of my recent projects (connect Phantom wallet to the devnet and Metamask wallet to the Rinkeby test network):
 - [Solana Metaplax NFT with drop date](https://nft-drop-starter-project-alpha-lac.vercel.app/)
