@@ -36,6 +36,8 @@ View my analyses completed for data analytics certification.
 - [Case Study: Canada's Energy Future](https://1drv.ms/p/s!AvCFI7fzKgPmhIx0yaxBeR0Nxgq72g?e=QnN4xx)
 - [Case Study: Visualising Canadian Tax Brackets and Calgary Trasit](https://1drv.ms/p/s!AvCFI7fzKgPmg_YMcITM59jB9VbJ7w?e=zehDBd)
 
+View my kaggle profile [here](https://www.kaggle.com/krishnaduvvuri).
+
 ## Web3 Collection
 [NFTs I've collected](https://opensea.io/krishnaD)
 
