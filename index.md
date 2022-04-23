@@ -39,6 +39,6 @@ View my analyses completed for data analytics certification.
 View my kaggle profile [here](https://www.kaggle.com/krishnaduvvuri).
 
 ## Web3 Collection
-[NFTs I've collected](https://opensea.io/krishnaD)
+View NFTs I've collected [here](https://opensea.io/krishnaD)
 
 
