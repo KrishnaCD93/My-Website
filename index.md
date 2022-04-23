@@ -29,7 +29,7 @@ I had a conversation with the University of Toronto's Schulich School of Busines
 View my talk [here](https://1drv.ms/v/s!AvCFI7fzKgPmhetul3-DVAFow1Q6OQ)
 
 ## Data Analytics
-View my analyses completed for data analytics certification.
+View my analyses:
 - [Analysis of Canada's Food Industry](https://github.com/KrishnaCD93/DAAN-Capstone-Project)
 - [NY City 2012 Stop and Frisk Program](https://1drv.ms/w/s!AvCFI7fzKgPmhetpxLrag9dSMXvB2A?e=xBr5N6)
 - [Cost analysis of London's railway rides](https://1drv.ms/b/s!AvCFI7fzKgPmhKtCoGOMavIMegviJg)
