@@ -35,7 +35,7 @@ View my analyses:
 - [NY City 2012 Stop and Frisk Program](https://1drv.ms/w/s!AvCFI7fzKgPmhetpxLrag9dSMXvB2A?e=xBr5N6)
 - [Cost analysis of London's railway rides](https://1drv.ms/b/s!AvCFI7fzKgPmhKtCoGOMavIMegviJg)
 - [Case Study: Canada's Energy Future](https://1drv.ms/p/s!AvCFI7fzKgPmhIx0yaxBeR0Nxgq72g?e=QnN4xx)
-- [Case Study: Visualising Canadian Tax Brackets and Calgary Trasit](https://1drv.ms/p/s!AvCFI7fzKgPmg_YMcITM59jB9VbJ7w?e=zehDBd)
+- [Case Study: Visualising Canadian Tax Brackets and Calgary Transit](https://1drv.ms/p/s!AvCFI7fzKgPmg_YMcITM59jB9VbJ7w?e=zehDBd)
 
 [View my kaggle profile](https://www.kaggle.com/krishnaduvvuri).
 
