@@ -26,7 +26,7 @@ Read all my blogs [here](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c
 ## Web3 Conversations
 I had a conversation with the University of Toronto's class of Arts Management at Schulich School of Business ARTM6360.
 
-[View my talk here](https://www.dropbox.com/s/d1gi73u8u2lqs3r/Schulich%20AM%2BE%20Digital%20Media%20-%202022%20Class%201.mp4?dl=0)
+View my talk [here](https://www.dropbox.com/s/d1gi73u8u2lqs3r/Schulich%20AM%2BE%20Digital%20Media%20-%202022%20Class%201.mp4?dl=0)
 
 ## Data Analytics
 View my analyses completed for data analytics certification.
