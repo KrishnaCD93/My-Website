@@ -17,16 +17,17 @@ View some of my recent projects (connect Phantom wallet to the devnet and Metama
 ## Blog
 I publish posts about the applications of blockchains and various other topics on my Mirror blog site
 
-Read all my blogs [here](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4):
+Read my blogs:
 - [Metaverse, A Digitally Augmented Reality](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/eJZKJKIXNv1R4tMeWy-sqfF5mhwvJKX9VwXPvkw7bkM)
 - [The Game of Digital Interactions](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/TnK_s0pzxDtPmtMvvw5g_yJgX-Xo1IzcjTnRUw_Kuso)
 - [Decentralized Private Identity](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/rXHgNAFTsfPZgKfg3CRmHBRsdQk8nUSsZ58LBqKUwSM)
 - [Unbundling Curation for Decentralized Communities](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/qQgCQ6C3-szK32cjQ_TBopuY7Z74idVucnhp3n7cWck)
+- [Cookbook: A Social Recipe Network](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/YNsehRAs5Yxq77jD3gC2Sg6gB3k0VjI8eobZZrZU144)
 
 ## Web3 Conversations
 I had a conversation with the University of Toronto's Schulich School of Business ARTM6360.
 
-View my talk [here](https://1drv.ms/v/s!AvCFI7fzKgPmhetul3-DVAFow1Q6OQ)
+[View my talk](https://1drv.ms/v/s!AvCFI7fzKgPmhetul3-DVAFow1Q6OQ)
 
 ## Data Analytics
 View my analyses:
@@ -36,9 +37,9 @@ View my analyses:
 - [Case Study: Canada's Energy Future](https://1drv.ms/p/s!AvCFI7fzKgPmhIx0yaxBeR0Nxgq72g?e=QnN4xx)
 - [Case Study: Visualising Canadian Tax Brackets and Calgary Trasit](https://1drv.ms/p/s!AvCFI7fzKgPmg_YMcITM59jB9VbJ7w?e=zehDBd)
 
-View my kaggle profile [here](https://www.kaggle.com/krishnaduvvuri).
+[View my kaggle profile](https://www.kaggle.com/krishnaduvvuri).
 
 ## Web3 Collection
-View NFTs I've collected [here](https://opensea.io/krishnaD)
+[View NFTs I've collected](https://opensea.io/krishnaD)
 
 
