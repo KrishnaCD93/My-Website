@@ -24,7 +24,7 @@ Read all my blogs [here](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c
 - [Unbundling Curation for Decentralized Communities](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/qQgCQ6C3-szK32cjQ_TBopuY7Z74idVucnhp3n7cWck)
 
 ## Web3 Conversations
-I had a conversation with the University of Toronto's class of Arts Management at Schulich School of Business ARTM6360.
+I had a conversation with the University of Toronto's Schulich School of Business ARTM6360.
 
 View my talk [here](https://1drv.ms/v/s!AvCFI7fzKgPmhetul3-DVAFow1Q6OQ)
 
