@@ -17,7 +17,7 @@ View some of my recent projects (connect Phantom wallet to the devnet and Metama
 ## Blog
 I publish posts about the applications of blockchains and various other topics on my Mirror blog site
 
-Read all my blogs [here](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4)
+Read all my blogs [here](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4):
 - [Metaverse, A Digitally Augmented Reality](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/eJZKJKIXNv1R4tMeWy-sqfF5mhwvJKX9VwXPvkw7bkM)
 - [The Game of Digital Interactions](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/TnK_s0pzxDtPmtMvvw5g_yJgX-Xo1IzcjTnRUw_Kuso)
 - [Decentralized Private Identity](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/rXHgNAFTsfPZgKfg3CRmHBRsdQk8nUSsZ58LBqKUwSM)
