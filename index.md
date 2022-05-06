@@ -8,26 +8,28 @@ I'm glad you are here. I plan to use this area to showcase what I'm building and
 
 Building [cookbook.social](https://cookbook.social/), which you can read about: [Cookbook: A Social Recipe Network](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/YNsehRAs5Yxq77jD3gC2Sg6gB3k0VjI8eobZZrZU144)
 
-View some of my recent projects (connect Phantom wallet to the devnet and Metamask wallet to the Rinkeby test network):
-- [Solana Metaplax NFT with drop date](https://nft-drop-starter-project-alpha-lac.vercel.app/)
-- [Solana dApp, gif portal of rocket league gifs](https://gif-portal-starter.krishnacd93.repl.co/)
-- [Ethereum smart contract](https://recipe-portal.krishnacd93.repl.co/)
-- [Blockchain turn-based fighting game](https://nft-game-starter-project.krishnacd93.repl.co)
-
 ## Blog
 I publish posts about the applications of blockchains and various other topics on my Mirror blog site
 
 Read my blogs:
 - [Metaverse, A Digitally Augmented Reality](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/eJZKJKIXNv1R4tMeWy-sqfF5mhwvJKX9VwXPvkw7bkM)
 - [The Game of Digital Interactions](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/TnK_s0pzxDtPmtMvvw5g_yJgX-Xo1IzcjTnRUw_Kuso)
-- [Decentralized Private Identity](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/rXHgNAFTsfPZgKfg3CRmHBRsdQk8nUSsZ58LBqKUwSM)
 - [Unbundling Curation for Decentralized Communities](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/qQgCQ6C3-szK32cjQ_TBopuY7Z74idVucnhp3n7cWck)
+- [Decentralized Private Identity](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/rXHgNAFTsfPZgKfg3CRmHBRsdQk8nUSsZ58LBqKUwSM)
 - [Cookbook: A Social Recipe Network](https://mirror.xyz/0x067a679B1b56A3CA58E2F4Eb77a157E61c95e9e4/YNsehRAs5Yxq77jD3gC2Sg6gB3k0VjI8eobZZrZU144)
 
 ## Web3 Conversations
 I had a conversation with the University of Toronto's Schulich School of Business ARTM6360.
 
 [View my talk](https://1drv.ms/v/s!AvCFI7fzKgPmhetul3-DVAFow1Q6OQ)
+
+## Projects
+
+View some of my recent projects (connect Phantom wallet to the devnet and Metamask wallet to the Rinkeby test network):
+- [Solana Metaplax NFT with drop date](https://nft-drop-starter-project-alpha-lac.vercel.app/)
+- [Solana dApp, gif portal of rocket league gifs](https://gif-portal-starter.krishnacd93.repl.co/)
+- [Ethereum smart contract](https://recipe-portal.krishnacd93.repl.co/)
+- [Blockchain turn-based fighting game](https://nft-game-starter-project.krishnacd93.repl.co)
 
 ## Data Analytics
 View my analyses:
